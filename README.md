@@ -1,5 +1,5 @@
 # [SQL Schema and Query Operations for University Database](https://example.com)
-```SQL
+```SQL 
 1. Table Creation:
     Department Table:
     
